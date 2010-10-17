@@ -1,0 +1,29 @@
+
+PicOver
+
+Introduction
+------------
+
+This application is just a simple borderless viewer for pictures
+for the purpose of using it as overlay in various video-streaming setups.
+
+Usage
+-----
+
+Upon first startup, there's just a little black window that you can move around.
+You can rightclick on the trayicon to popout a menu to control the viewer.
+Use the option "Browse" to browse for a picture to display in the viewer.
+Move around the window to its wanted position, and use the menuoptions Lock and OnTop.
+You can use the menuoption "Save profile" to save the profile to load automatically on startup
+or restore saved settings.
+
+During usage, you can also double-click on the trayicon to minimize or restore the window.
+
+
+Current version v0.1
+--------------------
+- Picture formats supported: JPEG
+- Moveable through dragging
+- Able to lock viewer into place
+- Uses trayicon for menu options
+- Support for profiles: 1
